@@ -32,10 +32,10 @@ import json
 # In[ ]:
 
 
-consumer_key = 'QGJH14PH3A5L3K8vaaVsj2rCt'
-consumer_secret = 'sqFvxX86LtAIn5jMOLLOxr2fcldadz2erQoFCQgAW7wy2KxOyB'
-access_token = '1126218015580860417-oSR9uKhB5P7Nf1zLYykxZYb1CWehEi'
-access_secret = 'mpY9aO8yQhWpEp0TXfqYomiw3QW3ii9VLE6pdMCUYQOmk'
+consumer_key = '****xxxxxx******yyyyyy***'
+consumer_secret = '****xxxxxx******yyyyyy***'
+access_token = '****xxxxxx******yyyyyy***'
+access_secret = '****xxxxxx******yyyyyy***'
 
 
 # In[ ]:
